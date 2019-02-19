@@ -20,15 +20,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.shuyu</groupId>
-      <artifactId>gsyVideoPlayer-java</artifactId>
-      <version>6.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.shuyu</groupId>
-      <artifactId>gsyVideoPlayer-armv7a</artifactId>
-      <version>6.0.2</version>
+      <groupId>com.android.support</groupId>
+      <artifactId>multidex</artifactId>
+      <version>1.0.2</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
