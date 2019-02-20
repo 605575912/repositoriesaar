@@ -8,12 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.south.public</groupId>
-      <artifactId>lib</artifactId>
-      <version>1.0.0-alpha01</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>multidex</artifactId>
       <version>1.0.2</version>
