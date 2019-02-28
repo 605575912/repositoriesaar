@@ -2,8 +2,16 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.south.toast</groupId>
+  <groupId>com.southgnss.equipment</groupId>
   <artifactId>lib</artifactId>
-  <version>1.0.0-alpha01</version>
+  <version>1.0.0-alpha04</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.southgnss.gnssparse</groupId>
+      <artifactId>lib</artifactId>
+      <version>1.0.0-alpha01</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
