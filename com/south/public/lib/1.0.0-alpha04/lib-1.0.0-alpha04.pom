@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.south.public</groupId>
   <artifactId>lib</artifactId>
-  <version>1.0.0-alpha05</version>
+  <version>1.0.0-alpha04</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -93,7 +93,7 @@
       <exclusions>
         <exclusion>
           <artifactId>*</artifactId>
-          <groupId>build_b968jfv325klze5tycaghn3bp$_run_closure2$_closure18$_closure19@16e3ee33</groupId>
+          <groupId>build_b968jfv325klze5tycaghn3bp$_run_closure2$_closure18$_closure19@509e5006</groupId>
         </exclusion>
       </exclusions>
     </dependency>
