@@ -3,14 +3,15 @@
   <groupId>com.southgnss.equipment</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.0-alpha05</release>
+    <release>1.0.0-alpha06</release>
     <versions>
       <version>1.0.0-alpha01</version>
       <version>1.0.0-alpha02</version>
       <version>1.0.0-alpha03</version>
       <version>1.0.0-alpha04</version>
       <version>1.0.0-alpha05</version>
+      <version>1.0.0-alpha06</version>
     </versions>
-    <lastUpdated>20190304092744</lastUpdated>
+    <lastUpdated>20190305072121</lastUpdated>
   </versioning>
 </metadata>
