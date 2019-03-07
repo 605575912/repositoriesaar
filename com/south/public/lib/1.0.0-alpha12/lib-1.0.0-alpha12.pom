@@ -76,7 +76,7 @@
     <dependency>
       <groupId>com.southgnss</groupId>
       <artifactId>lib</artifactId>
-      <version>1.0.0-alpha04</version>
+      <version>1.0.0-alpha05</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -93,7 +93,7 @@
       <exclusions>
         <exclusion>
           <artifactId>*</artifactId>
-          <groupId>build_b968jfv325klze5tycaghn3bp$_run_closure2$_closure18$_closure19@ef25065</groupId>
+          <groupId>build_b968jfv325klze5tycaghn3bp$_run_closure2$_closure18$_closure19@516eeaa2</groupId>
         </exclusion>
       </exclusions>
     </dependency>
