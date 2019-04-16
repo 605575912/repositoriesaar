@@ -74,6 +74,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.bumptech.glide</groupId>
+      <artifactId>glide</artifactId>
+      <version>4.8.0</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>build_6dukcbo3fco0moe7q9t86ey76$_run_closure2$_closure18$_closure19@7e82e88b</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>multidex</artifactId>
       <version>1.0.2</version>
