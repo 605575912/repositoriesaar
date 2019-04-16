@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.southgnss.calendar</groupId>
   <artifactId>lib</artifactId>
-  <version>1.0.0-alpha03</version>
+  <version>1.0.0-alpha04</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
