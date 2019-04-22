@@ -6,12 +6,4 @@
   <artifactId>lib</artifactId>
   <version>1.0.0-alpha08</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>multidex</artifactId>
-      <version>1.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
