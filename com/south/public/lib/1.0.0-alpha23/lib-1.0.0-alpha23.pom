@@ -32,36 +32,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support.constraint</groupId>
-      <artifactId>constraint-layout</artifactId>
-      <version>2.0.0-alpha4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.okhttp3</groupId>
-      <artifactId>okhttp</artifactId>
-      <version>3.11.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.reactivex.rxjava2</groupId>
-      <artifactId>rxandroid</artifactId>
-      <version>2.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>2.8.5</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.meituan.android.walle</groupId>
-      <artifactId>library</artifactId>
-      <version>1.1.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.github.bumptech.glide</groupId>
       <artifactId>glide</artifactId>
       <version>4.8.0</version>
@@ -69,7 +39,7 @@
       <exclusions>
         <exclusion>
           <artifactId>*</artifactId>
-          <groupId>build_6dukcbo3fco0moe7q9t86ey76$_run_closure2$_closure18$_closure19@4d804027</groupId>
+          <groupId>build_6dukcbo3fco0moe7q9t86ey76$_run_closure2$_closure18$_closure19@4ad35959</groupId>
         </exclusion>
       </exclusions>
     </dependency>
