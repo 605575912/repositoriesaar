@@ -14,12 +14,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>Southgnsslibrary</groupId>
-      <artifactId>easypermissions</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>multidex</artifactId>
       <version>1.0.2</version>
