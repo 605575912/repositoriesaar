@@ -3,7 +3,7 @@
   <groupId>com.southgnss.gnssparse</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.0-alpha06</release>
+    <release>1.0.0-alpha15</release>
     <versions>
       <version>1.0.0-alpha01</version>
       <version>1.0.0-alpha02</version>
@@ -11,7 +11,16 @@
       <version>1.0.0-alpha04</version>
       <version>1.0.0-alpha05</version>
       <version>1.0.0-alpha06</version>
+      <version>1.0.0-alpha07</version>
+      <version>1.0.0-alpha08</version>
+      <version>1.0.0-alpha09</version>
+      <version>1.0.0-alpha10</version>
+      <version>1.0.0-alpha11</version>
+      <version>1.0.0-alpha12</version>
+      <version>1.0.0-alpha13</version>
+      <version>1.0.0-alpha14</version>
+      <version>1.0.0-alpha15</version>
     </versions>
-    <lastUpdated>20190314080238</lastUpdated>
+    <lastUpdated>20190430055254</lastUpdated>
   </versioning>
 </metadata>
