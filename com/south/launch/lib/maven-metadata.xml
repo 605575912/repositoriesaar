@@ -3,7 +3,7 @@
   <groupId>com.south.launch</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.0-alpha22</release>
+    <release>1.0.0-alpha23</release>
     <versions>
       <version>1.0.0-alpha01</version>
       <version>1.0.0-alpha02</version>
@@ -27,7 +27,8 @@
       <version>1.0.0-alpha20</version>
       <version>1.0.0-alpha21</version>
       <version>1.0.0-alpha22</version>
+      <version>1.0.0-alpha23</version>
     </versions>
-    <lastUpdated>20190429020900</lastUpdated>
+    <lastUpdated>20190513010419</lastUpdated>
   </versioning>
 </metadata>
