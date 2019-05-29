@@ -3,7 +3,7 @@
   <groupId>com.south.public</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.0-alpha26ss</release>
+    <release>1.0.0-alpha26sss</release>
     <versions>
       <version>1.0.0-alpha01</version>
       <version>1.0.0-alpha02</version>
@@ -34,7 +34,8 @@
       <version>1.0.0-alpha26s</version>
       <version>1.0.0-alpha27s</version>
       <version>1.0.0-alpha26ss</version>
+      <version>1.0.0-alpha26sss</version>
     </versions>
-    <lastUpdated>20190529100251</lastUpdated>
+    <lastUpdated>20190529101830</lastUpdated>
   </versioning>
 </metadata>
