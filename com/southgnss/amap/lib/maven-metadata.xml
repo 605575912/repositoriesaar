@@ -3,7 +3,7 @@
   <groupId>com.southgnss.amap</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.0-alphas15</release>
+    <release>1.0.0-alpha16</release>
     <versions>
       <version>1.0.0-alpha01</version>
       <version>1.0.0-alpha02</version>
@@ -21,7 +21,8 @@
       <version>1.0.0-alpha14</version>
       <version>1.0.0-alpha15</version>
       <version>1.0.0-alphas15</version>
+      <version>1.0.0-alpha16</version>
     </versions>
-    <lastUpdated>20190610082637</lastUpdated>
+    <lastUpdated>20190610083206</lastUpdated>
   </versioning>
 </metadata>
