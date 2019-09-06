@@ -3,7 +3,7 @@
   <groupId>com.southgnss</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>1.0.1-alpha01</release>
+    <release>1.0.1-alpha02</release>
     <versions>
       <version>1.0.0-alpha01</version>
       <version>1.0.0-alpha02</version>
@@ -33,7 +33,8 @@
       <version>1.0.0-alpha26</version>
       <version>1.0.0-alpha27</version>
       <version>1.0.1-alpha01</version>
+      <version>1.0.1-alpha02</version>
     </versions>
-    <lastUpdated>20190906031049</lastUpdated>
+    <lastUpdated>20190906033513</lastUpdated>
   </versioning>
 </metadata>
